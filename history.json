@@ -1,0 +1,76 @@
+[
+    {
+        "year": 2012,
+        "paragraph": "New York City was hit by Hurricane Sandy, one of the worst hurricanes in history. Shell, an Airbnb host in Brooklyn, contacted Airbnb and asked if she could offer her place for free to people who had to evacuate. The Airbnb team worked long hours to quickly make this available to evacuees, and soon over 1,000 hosts opened their homes to those in need.",
+        "title": "2012: The idea came from a host",
+        "refugee":"=10M People"
+    },
+    {
+        "year": 2013,
+        "paragraph": "Airbnb launches a disaster response tool that lets Hosts around the world offer their homes for free during disasters.",
+        "title": "2013: Airbnb makes it possible for more hosts to lend a hand",
+        "refugee":"=15M People"
+    },
+    {
+        "year": 2014,
+        "paragraph": "Airbnb activates for the Nepal earthquake and hosts welcome their first group of relief workers, with volunteers from All Hands and Hearts.",
+        "title": "2014:Hosts around the world open their doors to relief workers",
+        "refugee":"=23M People"
+    },
+    {
+        "year": 2015,
+        "paragraph": "Partnerships are created with the Federal Emergency Management Agency (FEMA) to help distribute emergency preparedness resources to hosts and guests. In Greece and the Balkans, Airbnb starts working with Mercy Corps and the International Rescue Committee to provide housing for relief workers on the front lines of the Syrian refugee crisis.",
+        "title": "2015: Airbnb works with nonprofits to understand how to offer help",
+        "refugee":"=28M People"
+    },
+    {
+        "year": 2016,
+        "paragraph": "At the request of the local government, Airbnb, Uber, and JetBlue joined forces to provide housing, flights, and ground transportation for families flying in for funerals or visiting loved ones in the hospital. This was the first time the host community had offered to host people affected by a mass shooting.",
+        "title": "2016: The host community responds to the Pulse nightclub shooting",
+        "refugee":"=32M People"
+    },
+    {
+        "year": 2017,
+        "paragraph": "In response to the US executive order halting all refugee admissions and temporarily barring people from seven Muslim-majority countries, Airbnb commits to housing those impacted by the ban. In response, Airbnb also pledges to contribute $4 million over the course of 4 years to the International Rescue Committee to support the housing needs of people who’ve been displaced.",
+        "title": "2017: Airbnb makes a commitment to the International Rescue Committee",
+        "refugee":"=39M People"
+    },
+    {
+        "year": 2018,
+        "paragraph": "On World Refugee Day, Airbnb announces it will double down on its housing efforts with Open Homes. The program has enabled the host community to offer their homes for free to people impacted by disasters or fleeing conflict.",
+        "title": "2018: Airbnb officially launches Open Homes",
+        "refugee":"=43M People"
+    },
+    {
+        "year": 2019,
+        "paragraph": "The Open Homes community responds to 4 disasters simultaneously. Hurricane Harvey becomes the host community’s largest activation. In just one month, hosts help over 2,000 people who had evacuated across 3 states. At the same time, hosts opened their homes to those affected by Hurricane Irma, Hurricane Maria, and the Mexico City earthquake.",
+        "title": "2019: The community helps over 20,000 people to date",
+        "refugee":"=52M People"
+    },
+    {
+        "year": 2020,
+        "paragraph": "Airbnb announces a way for hosts to provide housing for healthcare workers and first responders on the front lines of the pandemic.",
+        "title": "2020: Airbnb announces a medical stays initiativeThe host community responds to the COVID-19 pandemic",
+        "refugee":"=59M People"
+    },
+
+    {
+        "year": 2021,
+        "paragraph": "To help create a world rooted in belonging, Airbnb.org publicly announces a series of commitments to deliver impact for diversity, equity, and inclusion.",
+        "title": "2021: Diversity, equity, and inclusion is front and center",
+        "refugee":"=72M People"
+    },
+    {
+        "year": 2022,
+        "paragraph": "After Russia invades Ukraine in February 2022, more than 6 million people flee the country. That month, Airbnb.org commits to finding temporary housing for 100,000 of them, and more than 40 organizations join us in this effort. Thanks to a global outpouring of support from Hosts and donors, Airbnb.org meets its goal in six months and remains dedicated to finding stays for people fleeing Ukraine.",
+        "title": "2022: Airbnb.org helps 100,000 people fleeing Ukraine find places to stay",
+        "refugee":"=78M People"
+    },
+    {
+        "year": 2023,
+        "paragraph": "After two magnitude 7+ earthquakes strike Türkiye and Syria, Airbnb.org connects more than 1,600 survivors with free places to stay, including relief workers and first responders who lost their own homes, and Syrian refugees who had settled in southern Türkiye after fleeing war in their own country.",
+        "title": "2023: Airbnb.org responds to earthquakes in Türkiye and Syria",
+        "refugee":"=83M People"
+    }
+
+]

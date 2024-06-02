@@ -1,0 +1,1644 @@
+{
+  "countries": [
+    {
+      "name": "USA",
+      "bubbleX":166,
+      "bubbleY":1107,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 12342,
+          "hosts": 234,
+          "donation": 2423
+        },
+
+        {
+          "year": 2013,
+          "refugees": 123542,
+          "hosts": 2803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 126442,
+          "hosts": 6303,
+          "donation": 25423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1265442,
+          "hosts": 14003,
+          "donation": 28423
+        },
+        {
+          "year": 2016,
+          "refugees": 34442242,
+          "hosts": 14044,
+          "donation": 63422
+        },
+        {
+          "year": 2017,
+          "refugees":43244422,
+          "hosts": 58422,
+          "donation": 83424
+        },
+        {
+          "year": 2018,
+          "refugees": 12343242,
+          "hosts": 854003,
+          "donation": 93423
+        },
+        {
+          "year": 2019,
+          "refugees": 123443442,
+          "hosts": 674003,
+          "donation": 203423
+        },
+        {
+          "year": 2020,
+          "refugees": 123434442,
+          "hosts": 654003,
+          "donation": 243423
+        },
+        {
+          "year": 2021,
+          "refugees": 123232442,
+          "hosts": 9834003,
+          "donation": 273423
+        },
+        {
+          "year": 2022,
+          "refugees": 123544442,
+          "hosts": 944003,
+          "donation": 293423
+        },
+        {
+          "year": 2023,
+          "refugees": 154424342,
+          "hosts": 9934003,
+          "donation": 343423
+        }
+      ]
+    },
+    
+
+
+    {
+      "name": "Australia",
+      "bubbleX":1387,
+      "bubbleY":1497,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 12420,
+          "hosts": 334,
+          "donation": 1423
+        },
+
+        {
+          "year": 2013,
+          "refugees": 123420,
+          "hosts": 3803,
+          "donation": 4342
+        },
+        {
+          "year": 2014,
+          "refugees": 124420,
+          "hosts": 7303,
+          "donation": 35423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1254420,
+          "hosts": 24003,
+          "donation": 38423
+        },
+        {
+          "year": 2016,
+          "refugees": 34442420,
+          "hosts": 34044,
+          "donation": 83422
+        },
+        {
+          "year": 2017,
+          "refugees":43244220,
+          "hosts": 48422,
+          "donation": 93424
+        },
+        {
+          "year": 2018,
+          "refugees": 1243240,
+          "hosts": 1254003,
+          "donation":113423
+        },
+        {
+          "year": 2019,
+          "refugees": 123444420,
+          "hosts": 774003,
+          "donation": 2903423
+        },
+        {
+          "year": 2020,
+          "refugees": 123344420,
+          "hosts": 1954003,
+          "donation": 634323
+        },
+        {
+          "year": 2021,
+          "refugees": 123224420,
+          "hosts": 9834003,
+          "donation": 727423
+        },
+        {
+          "year": 2022,
+          "refugees": 123544420,
+          "hosts": 1044003,
+          "donation": 849323
+        },
+        {
+          "year": 2023,
+          "refugees": 154243420,
+          "hosts": 12934003,
+          "donation": 994323
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "bubbleX":662,
+      "bubbleY":1020,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 942,
+          "hosts": 53,
+          "donation": 82
+        },
+
+        {
+          "year": 2013,
+          "refugees": 103420,
+          "hosts": 1803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 3420,
+          "hosts": 2303,
+          "donation": 35423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 4420,
+          "hosts": 24003,
+          "donation": 68423
+        },
+        {
+          "year": 2016,
+          "refugees": 12420,
+          "hosts": 34044,
+          "donation": 83422
+        },
+        {
+          "year": 2017,
+          "refugees":44220,
+          "hosts": 48422,
+          "donation": 93424
+        },
+        {
+          "year": 2018,
+          "refugees": 143240,
+          "hosts": 54003,
+          "donation":113423
+        },
+        {
+          "year": 2019,
+          "refugees": 243240,
+          "hosts": 74003,
+          "donation":313423
+        },
+        {
+          "year": 2020,
+          "refugees": 343240,
+          "hosts": 94003,
+          "donation":413423
+        },
+        {
+          "year": 2021,
+          "refugees": 543240,
+          "hosts":144003,
+          "donation":713423
+        },
+        {
+          "year": 2022,
+          "refugees": 743240,
+          "hosts":344003,
+          "donation":813423
+        },
+        {
+          "year": 2023,
+          "refugees": 943240,
+          "hosts":544003,
+          "donation":1213423
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "bubbleX":1097,
+      "bubbleY":1232,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 9420,
+          "hosts": 534,
+          "donation": 823
+        },
+
+        {
+          "year": 2013,
+          "refugees": 103420,
+          "hosts": 1803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 3420,
+          "hosts": 2303,
+          "donation": 35423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 4420,
+          "hosts": 24003,
+          "donation": 68423
+        },
+        {
+          "year": 2016,
+          "refugees": 12420,
+          "hosts": 34044,
+          "donation": 83422
+        },
+        {
+          "year": 2017,
+          "refugees":44220,
+          "hosts": 48422,
+          "donation": 93424
+        },
+        {
+          "year": 2018,
+          "refugees": 143240,
+          "hosts": 54003,
+          "donation":113423
+        },
+        {
+          "year": 2019,
+          "refugees": 243240,
+          "hosts": 74003,
+          "donation":313423
+        },
+        {
+          "year": 2020,
+          "refugees": 343240,
+          "hosts": 94003,
+          "donation":413423
+        },
+        {
+          "year": 2021,
+          "refugees": 543240,
+          "hosts":144003,
+          "donation":713423
+        },
+        {
+          "year": 2022,
+          "refugees": 743240,
+          "hosts":344003,
+          "donation":813423
+        },
+        {
+          "year": 2023,
+          "refugees": 943240,
+          "hosts":544003,
+          "donation":1213423
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "bubbleX":867,
+      "bubbleY":1109,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 9420,
+          "hosts": 534,
+          "donation": 823
+        },
+
+        {
+          "year": 2013,
+          "refugees": 103420,
+          "hosts": 1803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 3420,
+          "hosts": 2303,
+          "donation": 35423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 4420,
+          "hosts": 24003,
+          "donation": 68423
+        },
+        {
+          "year": 2016,
+          "refugees": 12420,
+          "hosts": 34044,
+          "donation": 83422
+        },
+        {
+          "year": 2017,
+          "refugees":44220,
+          "hosts": 48422,
+          "donation": 93424
+        },
+        {
+          "year": 2018,
+          "refugees": 143240,
+          "hosts": 54003,
+          "donation":113423
+        },
+        {
+          "year": 2019,
+          "refugees": 243240,
+          "hosts": 74003,
+          "donation":313423
+        },
+        {
+          "year": 2020,
+          "refugees": 343240,
+          "hosts": 94003,
+          "donation":413423
+        },
+        {
+          "year": 2021,
+          "refugees": 543240,
+          "hosts":144003,
+          "donation":713423
+        },
+        {
+          "year": 2022,
+          "refugees": 743240,
+          "hosts":344003,
+          "donation":813423
+        },
+        {
+          "year": 2023,
+          "refugees": 943240,
+          "hosts":544003,
+          "donation":1213423
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "bubbleX":132,
+      "bubbleY":1001,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 9420,
+          "hosts": 534,
+          "donation": 823
+        },
+
+        {
+          "year": 2013,
+          "refugees": 103420,
+          "hosts": 1803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 3420,
+          "hosts": 2303,
+          "donation": 35423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 4420,
+          "hosts": 24003,
+          "donation": 68423
+        },
+        {
+          "year": 2016,
+          "refugees": 12420,
+          "hosts": 34044,
+          "donation": 83422
+        },
+        {
+          "year": 2017,
+          "refugees":44220,
+          "hosts": 48422,
+          "donation": 93424
+        },
+        {
+          "year": 2018,
+          "refugees": 143240,
+          "hosts": 54003,
+          "donation":113423
+        },
+        {
+          "year": 2019,
+          "refugees": 243240,
+          "hosts": 74003,
+          "donation":313423
+        },
+        {
+          "year": 2020,
+          "refugees": 343240,
+          "hosts": 94003,
+          "donation":413423
+        },
+        {
+          "year": 2021,
+          "refugees": 543240,
+          "hosts":144003,
+          "donation":713423
+        },
+        {
+          "year": 2022,
+          "refugees": 743240,
+          "hosts":344003,
+          "donation":813423
+        },
+        {
+          "year": 2023,
+          "refugees": 943240,
+          "hosts":544003,
+          "donation":1213423
+        }
+      ]
+    },
+    {
+      "name": "Russia",
+      "bubbleX":1165,
+      "bubbleY":978,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 9420,
+          "hosts": 534,
+          "donation": 823
+        },
+
+        {
+          "year": 2013,
+          "refugees": 103420,
+          "hosts": 1803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 3420,
+          "hosts": 2303,
+          "donation": 35423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 4420,
+          "hosts": 24003,
+          "donation": 68423
+        },
+        {
+          "year": 2016,
+          "refugees": 12420,
+          "hosts": 34044,
+          "donation": 83422
+        },
+        {
+          "year": 2017,
+          "refugees":44220,
+          "hosts": 48422,
+          "donation": 93424
+        },
+        {
+          "year": 2018,
+          "refugees": 143240,
+          "hosts": 54003,
+          "donation":113423
+        },
+        {
+          "year": 2019,
+          "refugees": 243240,
+          "hosts": 74003,
+          "donation":313423
+        },
+        {
+          "year": 2020,
+          "refugees": 343240,
+          "hosts": 94003,
+          "donation":413423
+        },
+        {
+          "year": 2021,
+          "refugees": 543240,
+          "hosts":144003,
+          "donation":713423
+        },
+        {
+          "year": 2022,
+          "refugees": 743240,
+          "hosts":344003,
+          "donation":813423
+        },
+        {
+          "year": 2023,
+          "refugees": 943240,
+          "hosts":544003,
+          "donation":1213423
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "bubbleX":662,
+      "bubbleY":1112,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 940,
+          "hosts": 54,
+          "donation": 83
+        },
+
+        {
+          "year": 2013,
+          "refugees": 10340,
+          "hosts": 183,
+          "donation": 232
+        },
+        {
+          "year": 2014,
+          "refugees": 340,
+          "hosts": 233,
+          "donation": 3543
+        },
+
+        {
+          "year": 2015,
+          "refugees": 440,
+          "hosts": 2403,
+          "donation": 6843
+        },
+        {
+          "year": 2016,
+          "refugees": 1240,
+          "hosts": 3404,
+          "donation": 8322
+        },
+        {
+          "year": 2017,
+          "refugees":4420,
+          "hosts": 4842,
+          "donation": 9324
+        },
+        {
+          "year": 2018,
+          "refugees": 14340,
+          "hosts": 5403,
+          "donation":11323
+        },
+        {
+          "year": 2019,
+          "refugees": 24340,
+          "hosts": 7403,
+          "donation":31323
+        },
+        {
+          "year": 2020,
+          "refugees": 34340,
+          "hosts": 9403,
+          "donation":41323
+        },
+        {
+          "year": 2021,
+          "refugees": 54340,
+          "hosts":14403,
+          "donation":71323
+        },
+        {
+          "year": 2022,
+          "refugees": 74340,
+          "hosts":34403,
+          "donation":81323
+        },
+        {
+          "year": 2023,
+          "refugees": 94340,
+          "hosts":54403,
+          "donation":121323
+        }
+      ]
+    },
+
+    {
+      "name": "Italy",
+      "bubbleX":762,
+      "bubbleY":1094,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 940,
+          "hosts": 54,
+          "donation": 83
+        },
+
+        {
+          "year": 2013,
+          "refugees": 10340,
+          "hosts": 183,
+          "donation": 232
+        },
+        {
+          "year": 2014,
+          "refugees": 340,
+          "hosts": 233,
+          "donation": 3543
+        },
+
+        {
+          "year": 2015,
+          "refugees": 440,
+          "hosts": 2403,
+          "donation": 6843
+        },
+        {
+          "year": 2016,
+          "refugees": 1240,
+          "hosts": 3404,
+          "donation": 8322
+        },
+        {
+          "year": 2017,
+          "refugees":4420,
+          "hosts": 4842,
+          "donation": 9324
+        },
+        {
+          "year": 2018,
+          "refugees": 14340,
+          "hosts": 5403,
+          "donation":11323
+        },
+        {
+          "year": 2019,
+          "refugees": 24340,
+          "hosts": 7403,
+          "donation":31323
+        },
+        {
+          "year": 2020,
+          "refugees": 34340,
+          "hosts": 9403,
+          "donation":41323
+        },
+        {
+          "year": 2021,
+          "refugees": 54340,
+          "hosts":14403,
+          "donation":71323
+        },
+        {
+          "year": 2022,
+          "refugees": 74340,
+          "hosts":34403,
+          "donation":81323
+        },
+        {
+          "year": 2023,
+          "refugees": 94340,
+          "hosts":54403,
+          "donation":121323
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "bubbleX":1270,
+      "bubbleY":1144,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 12342,
+          "hosts": 234,
+          "donation": 2423
+        },
+
+        {
+          "year": 2013,
+          "refugees": 123542,
+          "hosts": 2803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 126442,
+          "hosts": 6303,
+          "donation": 25423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1265442,
+          "hosts": 14003,
+          "donation": 28423
+        },
+        {
+          "year": 2016,
+          "refugees": 34442242,
+          "hosts": 14044,
+          "donation": 63422
+        },
+        {
+          "year": 2017,
+          "refugees":43244422,
+          "hosts": 58422,
+          "donation": 83424
+        },
+        {
+          "year": 2018,
+          "refugees": 12343242,
+          "hosts": 854003,
+          "donation": 93423
+        },
+        {
+          "year": 2019,
+          "refugees": 123443442,
+          "hosts": 674003,
+          "donation": 203423
+        },
+        {
+          "year": 2020,
+          "refugees": 123434442,
+          "hosts": 654003,
+          "donation": 243423
+        },
+        {
+          "year": 2021,
+          "refugees": 123232442,
+          "hosts": 9834003,
+          "donation": 273423
+        },
+        {
+          "year": 2022,
+          "refugees": 123544442,
+          "hosts": 944003,
+          "donation": 293423
+        },
+        {
+          "year": 2023,
+          "refugees": 154424342,
+          "hosts": 9934003,
+          "donation": 343423
+        }
+
+      ]
+    },
+    {
+      "name": "Sudan",
+      "bubbleX":835,
+      "bubbleY":1259,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 12342,
+          "hosts": 234,
+          "donation": 2423
+        },
+
+        {
+          "year": 2013,
+          "refugees": 123542,
+          "hosts": 2803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 126442,
+          "hosts": 6303,
+          "donation": 25423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1265442,
+          "hosts": 14003,
+          "donation": 28423
+        },
+        {
+          "year": 2016,
+          "refugees": 34442242,
+          "hosts": 14044,
+          "donation": 63422
+        },
+        {
+          "year": 2017,
+          "refugees":43244422,
+          "hosts": 58422,
+          "donation": 83424
+        },
+        {
+          "year": 2018,
+          "refugees": 12343242,
+          "hosts": 854003,
+          "donation": 93423
+        },
+        {
+          "year": 2019,
+          "refugees": 123443442,
+          "hosts": 674003,
+          "donation": 203423
+        },
+        {
+          "year": 2020,
+          "refugees": 123434442,
+          "hosts": 654003,
+          "donation": 243423
+        },
+        {
+          "year": 2021,
+          "refugees": 123232442,
+          "hosts": 9834003,
+          "donation": 273423
+        },
+        {
+          "year": 2022,
+          "refugees": 123544442,
+          "hosts": 944003,
+          "donation": 293423
+        },
+        {
+          "year": 2023,
+          "refugees": 154424342,
+          "hosts": 9934003,
+          "donation": 343423
+        }
+
+      ]
+    },
+    {
+      "name": "Brazil",
+      "bubbleX":430,
+      "bubbleY":1403,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 12342,
+          "hosts": 234,
+          "donation": 2423
+        },
+
+        {
+          "year": 2013,
+          "refugees": 123542,
+          "hosts": 2803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 126442,
+          "hosts": 6303,
+          "donation": 25423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1265442,
+          "hosts": 14003,
+          "donation": 28423
+        },
+        {
+          "year": 2016,
+          "refugees": 34442242,
+          "hosts": 14044,
+          "donation": 63422
+        },
+        {
+          "year": 2017,
+          "refugees":43244422,
+          "hosts": 58422,
+          "donation": 83424
+        },
+        {
+          "year": 2018,
+          "refugees": 12343242,
+          "hosts": 854003,
+          "donation": 93423
+        },
+        {
+          "year": 2019,
+          "refugees": 123443442,
+          "hosts": 674003,
+          "donation": 203423
+        },
+        {
+          "year": 2020,
+          "refugees": 123434442,
+          "hosts": 654003,
+          "donation": 243423
+        },
+        {
+          "year": 2021,
+          "refugees": 123232442,
+          "hosts": 9834003,
+          "donation": 273423
+        },
+        {
+          "year": 2022,
+          "refugees": 123544442,
+          "hosts": 944003,
+          "donation": 293423
+        },
+        {
+          "year": 2023,
+          "refugees": 154424342,
+          "hosts": 9934003,
+          "donation": 343423
+        }
+
+      ]
+    },
+    {
+      "name": "Iran",
+      "bubbleX":981,
+      "bubbleY":1161,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 12342,
+          "hosts": 234,
+          "donation": 2423
+        },
+
+        {
+          "year": 2013,
+          "refugees": 123542,
+          "hosts": 2803,
+          "donation": 2342
+        },
+        {
+          "year": 2014,
+          "refugees": 126442,
+          "hosts": 6303,
+          "donation": 25423
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1265442,
+          "hosts": 14003,
+          "donation": 28423
+        },
+        {
+          "year": 2016,
+          "refugees": 34442242,
+          "hosts": 14044,
+          "donation": 63422
+        },
+        {
+          "year": 2017,
+          "refugees":43244422,
+          "hosts": 58422,
+          "donation": 83424
+        },
+        {
+          "year": 2018,
+          "refugees": 12343242,
+          "hosts": 854003,
+          "donation": 93423
+        },
+        {
+          "year": 2019,
+          "refugees": 123443442,
+          "hosts": 674003,
+          "donation": 203423
+        },
+        {
+          "year": 2020,
+          "refugees": 123434442,
+          "hosts": 654003,
+          "donation": 243423
+        },
+        {
+          "year": 2021,
+          "refugees": 123232442,
+          "hosts": 9834003,
+          "donation": 273423
+        },
+        {
+          "year": 2022,
+          "refugees": 123544442,
+          "hosts": 944003,
+          "donation": 293423
+        },
+        {
+          "year": 2023,
+          "refugees": 154424342,
+          "hosts": 9934003,
+          "donation": 343423
+        }
+
+      ]
+    },
+    {
+      "name": "Mexico",
+      "bubbleX":157,
+      "bubbleY":1226,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 1234,
+          "hosts": 23,
+          "donation": 242
+        },
+
+        {
+          "year": 2013,
+          "refugees": 12354,
+          "hosts": 280,
+          "donation": 234
+        },
+        {
+          "year": 2014,
+          "refugees": 12644,
+          "hosts": 630,
+          "donation": 2542
+        },
+
+        {
+          "year": 2015,
+          "refugees": 126544,
+          "hosts": 1403,
+          "donation": 2842
+        },
+        {
+          "year": 2016,
+          "refugees": 3444224,
+          "hosts": 1404,
+          "donation": 6342
+        },
+        {
+          "year": 2017,
+          "refugees":4324442,
+          "hosts": 5842,
+          "donation": 8342
+        },
+        {
+          "year": 2018,
+          "refugees": 1234324,
+          "hosts": 85400,
+          "donation": 9342
+        },
+        {
+          "year": 2019,
+          "refugees": 12344344,
+          "hosts": 67400,
+          "donation": 20342
+        },
+        {
+          "year": 2020,
+          "refugees": 12343444,
+          "hosts": 65400,
+          "donation": 24342
+        },
+        {
+          "year": 2021,
+          "refugees": 12323244,
+          "hosts": 983400,
+          "donation": 27342
+        },
+        {
+          "year": 2022,
+          "refugees": 12354444,
+          "hosts": 94400,
+          "donation": 29342
+        },
+        {
+          "year": 2023,
+          "refugees": 15442434,
+          "hosts": 993400,
+          "donation": 34342
+        }
+
+      ]
+    },
+    {
+      "name": "South Africa",
+      "bubbleX":811,
+      "bubbleY":1539,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 1234,
+          "hosts": 23,
+          "donation": 242
+        },
+
+        {
+          "year": 2013,
+          "refugees": 12354,
+          "hosts": 280,
+          "donation": 234
+        },
+        {
+          "year": 2014,
+          "refugees": 12644,
+          "hosts": 630,
+          "donation": 2542
+        },
+
+        {
+          "year": 2015,
+          "refugees": 126544,
+          "hosts": 1403,
+          "donation": 2842
+        },
+        {
+          "year": 2016,
+          "refugees": 3444224,
+          "hosts": 1404,
+          "donation": 6342
+        },
+        {
+          "year": 2017,
+          "refugees":4324442,
+          "hosts": 5842,
+          "donation": 8342
+        },
+        {
+          "year": 2018,
+          "refugees": 1234324,
+          "hosts": 85400,
+          "donation": 9342
+        },
+        {
+          "year": 2019,
+          "refugees": 12344344,
+          "hosts": 67400,
+          "donation": 20342
+        },
+        {
+          "year": 2020,
+          "refugees": 12343444,
+          "hosts": 65400,
+          "donation": 24342
+        },
+        {
+          "year": 2021,
+          "refugees": 12323244,
+          "hosts": 983400,
+          "donation": 27342
+        },
+        {
+          "year": 2022,
+          "refugees": 12354444,
+          "hosts": 94400,
+          "donation": 29342
+        },
+        {
+          "year": 2023,
+          "refugees": 15442434,
+          "hosts": 993400,
+          "donation": 34342
+        }
+
+      ]
+    },
+    {
+      "name": "Germany",
+      "bubbleX":743,
+      "bubbleY":1041,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 1234,
+          "hosts": 23,
+          "donation": 242
+        },
+
+        {
+          "year": 2013,
+          "refugees": 12354,
+          "hosts": 280,
+          "donation": 234
+        },
+        {
+          "year": 2014,
+          "refugees": 12644,
+          "hosts": 630,
+          "donation": 2542
+        },
+
+        {
+          "year": 2015,
+          "refugees": 126544,
+          "hosts": 1403,
+          "donation": 2842
+        },
+        {
+          "year": 2016,
+          "refugees": 3444224,
+          "hosts": 1404,
+          "donation": 6342
+        },
+        {
+          "year": 2017,
+          "refugees":4324442,
+          "hosts": 5842,
+          "donation": 8342
+        },
+        {
+          "year": 2018,
+          "refugees": 1234324,
+          "hosts": 85400,
+          "donation": 9342
+        },
+        {
+          "year": 2019,
+          "refugees": 12344344,
+          "hosts": 67400,
+          "donation": 20342
+        },
+        {
+          "year": 2020,
+          "refugees": 12343444,
+          "hosts": 65400,
+          "donation": 24342
+        },
+        {
+          "year": 2021,
+          "refugees": 12323244,
+          "hosts": 983400,
+          "donation": 27342
+        },
+        {
+          "year": 2022,
+          "refugees": 12354444,
+          "hosts": 94400,
+          "donation": 29342
+        },
+        {
+          "year": 2023,
+          "refugees": 15442434,
+          "hosts": 993400,
+          "donation": 34342
+        }
+
+      ]
+    },
+    {
+      "name": "Sweden",
+      "bubbleX":770,
+      "bubbleY":973,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 14,
+          "hosts": 23,
+          "donation": 24
+        },
+
+        {
+          "year": 2013,
+          "refugees": 124,
+          "hosts": 20,
+          "donation": 23
+        },
+        {
+          "year": 2014,
+          "refugees": 126,
+          "hosts": 63,
+          "donation": 25
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1254,
+          "hosts": 14,
+          "donation": 28
+        },
+        {
+          "year": 2016,
+          "refugees": 3442,
+          "hosts": 14,
+          "donation": 64
+        },
+        {
+          "year": 2017,
+          "refugees":43444,
+          "hosts": 54,
+          "donation": 83
+        },
+        {
+          "year": 2018,
+          "refugees": 12332,
+          "hosts": 850,
+          "donation": 94
+        },
+        {
+          "year": 2019,
+          "refugees": 123434,
+          "hosts": 670,
+          "donation": 234
+        },
+        {
+          "year": 2020,
+          "refugees": 123454,
+          "hosts": 654,
+          "donation": 244
+        },
+        {
+          "year": 2021,
+          "refugees": 123234,
+          "hosts": 9834,
+          "donation": 274
+        },
+        {
+          "year": 2022,
+          "refugees": 123444,
+          "hosts": 940,
+          "donation": 294
+        },
+        {
+          "year": 2023,
+          "refugees": 154244,
+          "hosts": 9930,
+          "donation": 3434
+        }
+
+      ]
+    },
+    {
+      "name": "Poland",
+      "bubbleX":788,
+      "bubbleY":1037,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 14,
+          "hosts": 23,
+          "donation": 24
+        },
+
+        {
+          "year": 2013,
+          "refugees": 124,
+          "hosts": 20,
+          "donation": 23
+        },
+        {
+          "year": 2014,
+          "refugees": 126,
+          "hosts": 63,
+          "donation": 25
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1254,
+          "hosts": 14,
+          "donation": 28
+        },
+        {
+          "year": 2016,
+          "refugees": 3442,
+          "hosts": 14,
+          "donation": 64
+        },
+        {
+          "year": 2017,
+          "refugees":43444,
+          "hosts": 54,
+          "donation": 83
+        },
+        {
+          "year": 2018,
+          "refugees": 12332,
+          "hosts": 850,
+          "donation": 94
+        },
+        {
+          "year": 2019,
+          "refugees": 123434,
+          "hosts": 670,
+          "donation": 234
+        },
+        {
+          "year": 2020,
+          "refugees": 123454,
+          "hosts": 654,
+          "donation": 244
+        },
+        {
+          "year": 2021,
+          "refugees": 123234,
+          "hosts": 9834,
+          "donation": 274
+        },
+        {
+          "year": 2022,
+          "refugees": 123444,
+          "hosts": 940,
+          "donation": 294
+        },
+        {
+          "year": 2023,
+          "refugees": 154244,
+          "hosts": 9930,
+          "donation": 3434
+        }
+
+      ]
+    },
+    {
+      "name": "Japan",
+      "bubbleX":1420,
+      "bubbleY":1118,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 14,
+          "hosts": 23,
+          "donation": 24
+        },
+
+        {
+          "year": 2013,
+          "refugees": 124,
+          "hosts": 20,
+          "donation": 23
+        },
+        {
+          "year": 2014,
+          "refugees": 126,
+          "hosts": 63,
+          "donation": 25
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1254,
+          "hosts": 14,
+          "donation": 28
+        },
+        {
+          "year": 2016,
+          "refugees": 3442,
+          "hosts": 14,
+          "donation": 64
+        },
+        {
+          "year": 2017,
+          "refugees":43444,
+          "hosts": 54,
+          "donation": 83
+        },
+        {
+          "year": 2018,
+          "refugees": 12332,
+          "hosts": 850,
+          "donation": 94
+        },
+        {
+          "year": 2019,
+          "refugees": 123434,
+          "hosts": 670,
+          "donation": 234
+        },
+        {
+          "year": 2020,
+          "refugees": 123454,
+          "hosts": 654,
+          "donation": 244
+        },
+        {
+          "year": 2021,
+          "refugees": 123234,
+          "hosts": 9834,
+          "donation": 274
+        },
+        {
+          "year": 2022,
+          "refugees": 123444,
+          "hosts": 940,
+          "donation": 294
+        },
+        {
+          "year": 2023,
+          "refugees": 154244,
+          "hosts": 9930,
+          "donation": 3434
+        }
+
+      ]
+    },
+    {
+      "name": "France",
+      "bubbleX":700,
+      "bubbleY":1072,
+      "years": [
+        {
+          "year": 2012,
+          "refugees": 14,
+          "hosts": 23,
+          "donation": 24
+        },
+
+        {
+          "year": 2013,
+          "refugees": 124,
+          "hosts": 20,
+          "donation": 23
+        },
+        {
+          "year": 2014,
+          "refugees": 126,
+          "hosts": 63,
+          "donation": 25
+        },
+
+        {
+          "year": 2015,
+          "refugees": 1254,
+          "hosts": 14,
+          "donation": 28
+        },
+        {
+          "year": 2016,
+          "refugees": 3442,
+          "hosts": 14,
+          "donation": 64
+        },
+        {
+          "year": 2017,
+          "refugees":43444,
+          "hosts": 54,
+          "donation": 83
+        },
+        {
+          "year": 2018,
+          "refugees": 12332,
+          "hosts": 850,
+          "donation": 94
+        },
+        {
+          "year": 2019,
+          "refugees": 123434,
+          "hosts": 670,
+          "donation": 234
+        },
+        {
+          "year": 2020,
+          "refugees": 123454,
+          "hosts": 654,
+          "donation": 244
+        },
+        {
+          "year": 2021,
+          "refugees": 123234,
+          "hosts": 9834,
+          "donation": 274
+        },
+        {
+          "year": 2022,
+          "refugees": 123444,
+          "hosts": 940,
+          "donation": 294
+        },
+        {
+          "year": 2023,
+          "refugees": 154244,
+          "hosts": 9930,
+          "donation": 3434
+        }
+
+      ]
+    }
+
+
+
+
+
+  ]
+}
